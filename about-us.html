@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<section class="flex flex-wrap">
-    <div class="w-50-l">
+<section class="flex flex-wrap mh4 mh5-ns">
+    <div class="w-50-l flex-end">
         <blockquote>
             <p class="pt-serif f4 f2-l i lh-copy measure black-80">“In order to build anything great, you have to be an optimist, because by definition you are trying to do something that most people would consider impossible. Optimists most certainly do not listen to leading indicators of bad news.”</p>
         </blockquote>
@@ -18,8 +18,20 @@ layout: default
 
 {% include col2.html data="about-us" %}
 
-{% include h2.html title="Our Values" %}
+<section class="ma3 ma5-ns">
+    {% include h2.html title="Our Values" %}
 
-<p class="f4 lh-copy black-80 measure">Values for us are more than just words on poster. Our 5 values are deeply embedded in how we recruit, review performance, promote and conduct ourselves on a day to day basis. All team members go through two cycles every year to review how they are faring on each of our values and our provided coaching on how to improve themselves.</p>
+    <p class="f5 f4-ns pt-serif lh-copy black-80 measure">Values for us are more than just words on poster. Our 5 values are deeply embedded in how we recruit, review performance, promote and conduct ourselves on a day to day basis. All team members go through two cycles every year to review how they are faring on each of our values and our provided coaching on how to improve themselves.</p>
+</section>
 
 {% include col2.html data="values" %}
+
+<section class="ma3 ma5-ns">
+  <img class="" src="https://icon.now.sh/language/64"> {% include h2.html title="Remote-first" %}
+  <p class="f5 f4-ns pt-serif lh-copy black-80 measure">We are a remote team that is spread all across the world. We believe distributed teams are the future of work and are wanting to build the model that helps more businesses move to this structure.</p>
+</section>
+
+<section class="ma3 ma5-ns">
+    {% include lead.html description="Want to join our team?" %}
+    {% include cta-2.html label="See open positions" icon="arrow" %}
+</section>
