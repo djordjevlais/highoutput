@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<section class="ma4 ma5-ns mv6-ns">
+  {% include h1.html title="High Output Ventures" %}
+  {% include lead.html description="We are a startup studio that builds and invests in SaaS & enterprise software companies in Asia. Our focus is on people and technologies that improve the way we work and live." %}
+</section>
+
+{% include linebreak.html %}
+
+{% include h2.html title="What we're working on" %}
+
+<!-- Loop over _data/products.yml -->
+{% include col2.html data="products" %}
+
+{% include linebreak.html %}
+
+{% include col2.html data="homepage-blocks" %}
+
+<section class="ma3 ma5-ns">
+  {% include h2.html title="Insights & Labs" %}
+  <p class="f5 f4-ns pt-serif lh-copy black-80 measure">Sign up for our newsletter and be the first to hear about our new products, useful tools and interesting articles.</p>
+</section>
+
+{% include cta-block.html %}

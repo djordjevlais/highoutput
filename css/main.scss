@@ -1,0 +1,32 @@
+---
+# Overwrite Tachyons here. Don't go overboard!
+---
+
+.pt-serif {
+  font-family: 'PT Serif', Georgia,
+               serif;
+                -webkit-font-smoothing: antialiased;
+}
+
+.source-sans {
+  font-family: 'Source Sans Pro', helvetica,
+               sans-serif;
+}
+
+.cf {
+  clear: both;
+}
+
+.cf-4th {
+  &:nth-child(4n) {
+    margin-right: 0;
+    clear: both;
+  }
+}
+
+.p-fix {
+  &:nth-child(3n) {
+    padding-right: 0;
+    margin-right: 0;
+  }
+}
