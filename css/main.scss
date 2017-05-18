@@ -13,6 +13,25 @@
                sans-serif;
 }
 
+.source-code {
+  font-family: 'Source Code Pro', monospace;
+}
+
+blockquote {
+  -webkit-margin-start: 0;
+}
+
+.quote__source::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 12px;
+  right: 100%;
+  width: 4rem;
+  height: 1px;
+  background-color: black;
+}
+
 .cf {
   clear: both;
 }
