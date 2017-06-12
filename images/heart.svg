@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 75 65.6" style="enable-background:new 0 0 75 65.6;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<path class="st0" d="M9.4,37.6C2.8,31.2,0,24.2,0,17.9C0,7.2,7.2,0,18,0c10.1,0,13.6,4.7,19.5,11.5C43.4,4.7,46.9,0,57,0
-	c10.9,0,18,7.2,18,17.9c0,6.3-2.8,13.3-9.4,19.7l-28.1,28L9.4,37.6z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Us---Centered" transform="translate(-701.000000, -1606.000000)">
+            <g id="heart" transform="translate(697.000000, 1605.000000)">
+                <path d="M5.48039878,20.8272114 C3.77143459,18.8965652 2.73401841,16.3577494 2.73401841,13.576632 C2.73401841,7.53263203 7.63364848,2.63300196 13.6776485,2.63300196 C17.6187138,2.63300196 21.0732097,4.71625319 23,7.84161942 C24.9267903,4.71625319 28.3812862,2.63300196 32.3223515,2.63300196 C38.3663515,2.63300196 43.2659816,7.53263203 43.2659816,13.576632 C43.2659816,15.9947702 42.4816918,18.2297276 41.1536092,20.0410071 L41.1602368,20.0432196 L41.0892429,20.1278916 C40.8463724,20.4523777 40.585909,20.7629332 40.3092672,21.0581434 L23.4536128,41.1613343 L5.47676494,20.8288107 L5.48039878,20.8272114 Z" id="Heart" fill="#F73E3E" transform="translate(23.000000, 21.897168) rotate(8.000000) translate(-23.000000, -21.897168) "></path>
+                <g id="Group-53" transform="translate(22.250192, 19.000000)" stroke-opacity="0.8" stroke="#000000" stroke-width="2" stroke-linecap="square">
+                    <path d="M6.5,12.5 L0.977319491,6.97731949" id="Line"></path>
+                    <path d="M9.5,9.5 L3.97731949,3.97731949" id="Line"></path>
+                    <path d="M13.5,6.5 L7.97731949,0.977319491" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

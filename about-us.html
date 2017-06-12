@@ -1,33 +1,43 @@
 ---
 layout: default
 ---
-<section class="ma3 ma5-ns">
+
+<section class="mw8 ph4 center">
 {% include h1.html title="About us" %}
+{% include quote.html quote="“In order to build anything great, you have to be an optimist, because by definition you are trying to do something that most people would consider impossible. Optimists most certainly do not listen to leading indicators of bad news.”" source="Andy Grove, from “High Output Management”" img="" %}
 </section>
 
-{% include quote.html quote="“In order to build anything great, you have to be an optimist, because by definition you are trying to do something that most people would consider impossible. Optimists most certainly do not listen to leading indicators of bad news.”" source="Andy Grove, from “High Output Management”" img="" %}
+{% include linebreak.html %}
 
-<section class="mh4 mh5-ns">
+<section class="mw8 ph4 center">
+    <img src="images/spyglass.svg" alt="Spyglass" class="center db">
     {% include h2.html title="Our Vision" %}
     {% include lead.html description="We imagine a world where a large majority of individuals go home everyday fulfilled by their work, feeling that they have contributed to something larger than themselves." %}
+
+    {% include col2.html data="about-us" %}
 </section>
 
-{% include col2.html data="about-us" %}
+{% include linebreak.html %}
 
-<section class="ma3 ma5-ns">
+<section class="mw8 ph4 center">
+    <img src="images/heart.svg" alt="Heart" class="center db">
     {% include h2.html title="Our Values" %}
 
-    <p class="f5 f4-ns pt-serif lh-copy black-80 measure">Values for us are more than just words on poster. Our 5 values are deeply embedded in how we recruit, review performance, promote and conduct ourselves on a day to day basis. All team members go through two cycles every year to review how they are faring on each of our values and our provided coaching on how to improve themselves.</p>
+    <p class="f5 f4-ns pt-serif lh-copy black-80 measure center tc">Values for us are more than just words on poster. Our 5 values are deeply embedded in how we recruit, review performance, promote and conduct ourselves on a day to day basis. All team members go through two cycles every year to review how they are faring on each of our values and our provided coaching on how to improve themselves.</p>
 </section>
 
-{% include col2.html data="values" %}
+<div class="mw9 ph4 center">
+    {% include col2.html data="values" %}
+</div>
 
-<section class="ma3 ma5-ns">
-  <img class="" src="https://icon.now.sh/language/64"> {% include h2.html title="Remote-first" %}
-  <p class="f5 f4-ns pt-serif lh-copy black-80 measure">We are a remote team that is spread all across the world. We believe distributed teams are the future of work and are wanting to build the model that helps more businesses move to this structure.</p>
+{% include linebreak.html %}
+
+<section class="mw8 ph4 center">
+    <img src="images/globe.svg" alt="Globe" class="center db">
+  {% include h2.html title="Remote-first" %}
+  <p class="f5 f4-ns pt-serif lh-copy black-80 measure center tc">We are a remote-first team that is spread across the world. We believe distributed teams are the future of work, and we want to inspire other teams to switch to remote-first environments.</p>
 </section>
 
-<section class="ma3 ma5-ns">
-    {% include lead.html description="Want to join our team?" %}
-    {% include cta-2.html label="See open positions" icon="arrow" %}
+<section class="tc pb4 pb6-l"">
+    {% include cta-1.html label="See open positions" url="https://high-output-ventures.breezy.hr" %}
 </section>

@@ -1,7 +1,8 @@
 - title: Who we are
-  description: After having built and run companies for over 10 years, we have learned many critical lessons through experience.
+  description: A remote-first team of developers, designers and marketers, working hard and having fun along the way.
   cta: Learn more about us
-  url: "about-us"
+  url: "about-us.html"
 - title: How we work
-  description: After having built and run companies for over 10 years, we have learned many critical lessons through experience.
-  cta: More about our process
+  description: Need help with building, growing and scaling your product?
+  cta: Learn more about our process
+  url: "product-studio.html"

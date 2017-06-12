@@ -49,3 +49,30 @@ blockquote {
     margin-right: 0;
   }
 }
+
+.hero {
+  background-image: url('../images/hero-bg.png');
+  background-position: 50% bottom;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: #0D2772;
+}
+
+@media only screen and (max-width: 30em) {
+    .hero {
+        background-image: url('../images/hero-bg-xs.png');
+        background-size: cover;
+    }
+}
+
+.bg-darky-blue {
+  background-color: #0D2772;
+}
+
+.blueish {
+  background-color: #DFEBFF;
+}
+
+.green-underline {
+  border-color: #23CF8D;
+}

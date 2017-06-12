@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>highoutput-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header" fill-rule="nonzero" fill="#23CF8D">
+            <g id="highoutput-logo">
+                <polygon id="_Path_" points="16.0278261 39.8 10.8782609 39.8 10.8782609 32.5315789 16.0278261 29.0842105"></polygon>
+                <polygon id="_Path_2" points="5.14956522 39.8 0 39.8 0 39.8 5.14956522 36.3578947"></polygon>
+                <path d="M43.5078261,10.7157895 L43.5078261,39.8 L59.5356522,39.8 L59.5356522,0 L43.5078261,10.7157895 Z M54.386087,34.8 L48.6469565,34.8 L48.6469565,13.5842105 L54.386087,9.85789474 L54.386087,34.8 Z" id="_Compound_Path_"></path>
+                <polygon id="_Path_3" points="32.6295652 17.9842105 32.6295652 26.0368421 26.9008696 29.8736842 26.9008696 21.8157895 21.7513043 25.2578947 21.7513043 39.8 26.9008696 39.8 26.9008696 36.4052632 32.6295652 32.5684211 32.6295652 39.8 37.7791304 39.8 37.7791304 14.5157895"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

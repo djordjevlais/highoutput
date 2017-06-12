@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="53px" viewBox="0 0 53 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>globe</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="26.5" cy="26.5" r="26.5"></circle>
+    </defs>
+    <g id="Classy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Us---Centered" transform="translate(-694.000000, -3412.000000)">
+            <g id="globe" transform="translate(694.000000, 3412.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Oval-61" fill="#3E5DB8" xlink:href="#path-1"></use>
+                <path d="M47.9060987,-2.70435701 C40.563407,-1.06257442 24.8545333,-0.688459947 21.1279542,9.19059544 C20.8629198,9.89319424 20.9930391,11.0603111 21.6743324,11.3761082 C24.1761305,12.5357562 28.114086,10.963138 29.7465087,13.1855181 C33.0836118,17.7286497 20.5105796,19.9759987 34.0501725,25.2245497 C36.1055054,26.0212886 38.9343923,27.6624416 40.5898703,26.2069078 C42.2149167,24.7781301 39.0101765,21.452002 40.3091966,19.7214736 C41.7311595,17.827163 45.3397523,19.170027 47.0790468,17.5621571 C48.679492,16.0826448 47.6634069,12.8530834 49.2982404,11.4116602 C50.6742274,10.1984603 53.4605522,12.0738586 54.7657645,10.7848222 C60.3420646,5.27763079 53.0890518,-0.489541346 49.6893124,-3 L47.9060987,-2.70435701 Z" id="Path-191" fill="#23CF8D" mask="url(#mask-2)"></path>
+                <g id="Group-4" mask="url(#mask-2)">
+                    <g transform="translate(13.000000, 15.000000)">
+                        <ellipse id="Oval-12" stroke="none" fill="#000000" fill-rule="evenodd" cx="2.25023256" cy="3.25437956" rx="2.25023256" ry="2.25437956"></ellipse>
+                        <ellipse id="Oval-12" stroke="none" fill="#000000" fill-rule="evenodd" cx="23.5397369" cy="3.06110517" rx="2.25023256" ry="2.25437956"></ellipse>
+                        <polyline id="Path-16" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" points="10.281163 6.36163937 10.281163 15.2041282 16.2817832 15.2041282"></polyline>
+                        <path d="M3.52495603,19.1953384 C3.52495603,27.3486381 22.556426,27.4615174 22.556426,19.1953384" id="Path-17" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <path d="M11.3732714,35.6447127 C12.184788,36.6493554 13.8317685,33.2224649 14.8199448,35.7794361 C15.478729,37.4840836 16.0812419,39.2267555 16.6274836,41.007452 C17.4442994,43.7390329 20.1222269,41.7538908 20.489554,43.1854801 C20.7895652,44.3547179 18.9858341,45.3424139 17.8119267,45.6235992 C5.12673534,48.6620748 -5.91691351,39.9807718 1.27624787,27.3638898 C8.46940925,14.7470078 4.59029121,27.247506 11.3732714,35.6447127 Z" id="Path-192" fill="#23CF8D" mask="url(#mask-2)" transform="translate(9.761355, 34.116286) rotate(22.000000) translate(-9.761355, -34.116286) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

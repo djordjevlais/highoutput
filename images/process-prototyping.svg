@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="142px" viewBox="0 0 256 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>process-prototyping</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="process-prototyping">
+            <g id="prototyping" transform="translate(0.000000, 17.000000)">
+                <rect id="Rectangle-57" x="0" y="0" width="158" height="125"></rect>
+                <g id="Group-18" transform="translate(42.000000, 80.500000) rotate(5.000000) translate(-42.000000, -80.500000) translate(14.000000, 55.000000)">
+                    <rect id="Rectangle-58" fill="#3E5DB8" x="0" y="0" width="56" height="51"></rect>
+                    <g id="Group-26" transform="translate(7.000000, 2.000000)">
+                        <ellipse id="Oval-12" fill-opacity="0.8" fill="#000000" cx="10.7916667" cy="18.7857143" rx="1.79166667" ry="1.78571429"></ellipse>
+                        <ellipse id="Oval-12" fill-opacity="0.8" fill="#000000" cx="29.9027778" cy="18.7857143" rx="1.79166667" ry="1.78571429"></ellipse>
+                        <polyline id="Path-16" stroke-opacity="0.8" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="18.5555556 18.1904762 18.5555556 25.1946909 24.3547883 25.1946909"></polyline>
+                        <path d="M12.5833333,28.9047619 C12.5833333,35.3630638 27.5539358,35.4524764 27.5539358,28.9047619" id="Path-17" stroke-opacity="0.8" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle-59" fill="#23CF8D" transform="translate(113.000000, 64.500000) rotate(-4.000000) translate(-113.000000, -64.500000) " x="80" y="57" width="66" height="15"></rect>
+                <rect id="Rectangle-59" fill="#FBCC4B" transform="translate(113.000000, 96.500000) rotate(4.000000) translate(-113.000000, -96.500000) " x="80" y="89" width="66" height="15"></rect>
+                <g id="Group-17" transform="translate(79.500000, 26.500000) rotate(-1.000000) translate(-79.500000, -26.500000) translate(13.000000, 13.000000)">
+                    <rect id="Rectangle-5" fill="#EC99B6" x="0" y="0" width="133" height="27"></rect>
+                    <path d="M8,6.5 L90.0073987,6.5" id="Path-87" stroke="#060606" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M8,16.5 L68.5082639,16.5" id="Path-87" stroke="#060606" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+                <path d="M124.915527,73.0422116 C143.607818,62.2357308 152.953964,67.8499085 152.953964,89.8847446" id="Path-89" stroke="#060606" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(138.934745, 78.796562) rotate(57.000000) translate(-138.934745, -78.796562) "></path>
+                <polyline id="Path-90" stroke="#060606" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="137.848546 70.0766884 136.055938 63.5163615 143.052632 62.3432873"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

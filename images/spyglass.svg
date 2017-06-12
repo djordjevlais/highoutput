@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="49px" viewBox="0 0 50 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>spyglass</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Us---Centered" transform="translate(-694.000000, -830.000000)">
+            <g id="spyglass" transform="translate(691.000000, 830.000000)">
+                <path d="M30.6947526,40.2004168 L30.6947526,45.751166 L22.0757001,45.751166 L22.0757001,40.2004168 L18.9974671,40.2004168 L17.7885611,6.89592158 L15.3035875,6.89592158 L15.3035875,-2.35532709 L37.4668652,-2.35532709 L37.4668652,6.89592158 L34.9818916,6.89592158 L33.7729856,40.2004168 L30.6947526,40.2004168 Z" id="Combined-Shape" fill="#23CF8D" transform="translate(26.385226, 21.697919) rotate(-300.000000) translate(-26.385226, -21.697919) "></path>
+                <g id="durbin-lines" transform="translate(8.000000, 7.000000)" stroke="#060606" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M0.5,20.5 L4.5,27.5" id="Line"></path>
+                    <path d="M26.5,0.5 L35,15" id="Line"></path>
+                    <path d="M19.5,23.5 L19.5,40.5293864" id="Line"></path>
+                    <path d="M19.5,23.5 L31.6757957,35.6757957" id="Line"></path>
+                    <path d="M7.5,23.5 L19.6757957,35.6757957" id="Line" transform="translate(13.500000, 29.500000) scale(-1, 1) translate(-13.500000, -29.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
