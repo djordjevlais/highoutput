@@ -3,19 +3,18 @@ layout: default
 header: blueish
 ---
 
-<section class="pa4 pa5-ns pt4-ns pb6 pb7-ns flex align-center hero">
+<section class="pa4 pa5-ns pt4-ns pb6 pb7-ns hero">
 
-  <div class="vh-75 h-auto-ns">
-    {% include h1.html title="High Output Ventures" %}
-    {% include lead.html description="We are a startup studio which helps businesses grow their people and communicate better." %}
+  <div class="vh-75 h-auto-ns mw9 center">
+    {% include h1.html title="High Output Ventures" class="tl" %}
+    {% include lead.html description="We are a startup studio which helps businesses grow their people and communicate better." class="tl" %}
   </div>
 </section>
 
 <section class="ph4 ph5-ns bg-darky-blue white pv4 pt5-ns">
-{% include h2.html title="What we're working on" %}
 
 <!-- Loop over _data/products.yml -->
-      <div class="flex flex-column flex-row-l flex-wrap">
+      <div class="flex flex-column flex-row-l flex-wrap mw9 center">
         {% assign data = site.data.products %}
         {% for item in data %}
             <div class="pr4 pr5-l pb4 mb5 w-50-l">
@@ -32,7 +31,7 @@ header: blueish
     </div>
 </div>
 
-<div class="mw9 center ph4 pt5">
+<div class="mw9 center ph4 pt5 pt6-ns">
   {% include col2.html data="homepage-blocks" %}
 </div>
 

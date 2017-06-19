@@ -3,7 +3,7 @@ title: High Output Ventures
 version: "v1"
 description: "Startup studio that builds and invests."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://djordje.work/highoutput" # the base hostname & protocol for your site
+url: "http://www.highoutput.io" # the base hostname & protocol for your site
 
 # Tachyons Version
 tv: "4.7"

@@ -1,9 +1,9 @@
 
-    <div class="flex flex-column flex-row-l flex-wrap">
+    <div class="flex flex-column flex-row-l flex-wrap justify-center">
         {% assign collection = include.data %}
         {% assign data = site.data[collection] %}
         {% for item in data %}
-            <div class="pr4-m pr5-l pb4 mb4 w-50-l">
+            <div class="ph4-ns pb4 mb4 w-50-l">
                 {% if item.icon %}
                     <img class="" src="{{ item.icon }}">
                 {% endif %}
